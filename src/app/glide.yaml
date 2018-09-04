@@ -1,0 +1,8 @@
+package: .
+import:
+- package: github.com/joho/godotenv
+  version: ^1.2.0
+- package: github.com/davecgh/go-spew
+  version: ^1.1.0
+  subpackages:
+  - spew

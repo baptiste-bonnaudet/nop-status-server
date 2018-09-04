@@ -1,0 +1,10 @@
+hash: 35611644315f01da2349861716413da3eb9ec07a2c6c3886ea161986b5e99430
+updated: 2018-09-04T11:50:31.294000833-04:00
+imports:
+- name: github.com/davecgh/go-spew
+  version: 8991bc29aa16c548c550c7ff78260e27b9ab7c73
+  subpackages:
+  - spew
+- name: github.com/joho/godotenv
+  version: a79fa1e548e2c689c241d10173efd51e5d689d5b
+testImports: []
